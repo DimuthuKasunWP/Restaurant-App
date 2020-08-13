@@ -8,7 +8,7 @@
 
 - Install and  setup the backend server
  
-[https://github.com/DimuthuKasunWP/RestaurantApp-Express-BackEnd](https://github.com/DimuthuKasunWP/RestaurantApp-Express-BackEnd)
+[https://github.com/DimuthuKasunWP/RestaurantApp-Express-Server](https://github.com/DimuthuKasunWP/RestaurantApp-Express-Server)
 
 ### Installation
 
